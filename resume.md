@@ -23,15 +23,15 @@
 *Projects*
 
 **Champion.js**  
-**github.com/kschat/championjs**  
+**[github.com/kschat/championjs](https://github.com/kschat/championjs)**  
 * Wrote frontend Model-View-Presenter framework that provides dependency injection, custom events, and easy module creation/extension to help structure JavaScript heavy applications. Utilized Grunt, Jasmine, Sinon, and Chai to build the modules and automate testing.
 
 **TF2Outpost Price Integration**  
-**github.com/kschat/tf2outpost-prices-chrome-extension**  
+**[github.com/kschat/tf2outpost-prices-chrome-extension](https://github.com/kschat/tf2outpost-prices-chrome-extension)**  
 * Wrote Chrome extension that hits a Node.js server for item prices and injects those prices into tf2outpost.com. Utilized Champion.js, jQuery, Node.js, Gulp.js, Jasmine, Chrome Extension API, Bootstrap 3, and Font Awesome 4.
 
 **Scheduler**  
-**github.com/kschat/scheduler**  
+**[github.com/kschat/scheduler](https://github.com/kschat/scheduler)**  
 * Created a simple way to schedule classes using Node.js, Express, MongoDB, Mongoose, and Jade. Wrote tests using Mocha with Should.
 
 *Technical Skills*
