@@ -1,23 +1,17 @@
-**Kyle Schattler**
-
-**[https://github.com/kschat](https://github.com/kschat)**
-
-**[kyleschattler@gmail.com](mailto:kyleschattler@gmail.com)**
-
+**Kyle Schattler**  
+**[https://github.com/kschat](https://github.com/kschat)**  
+**[kyleschattler@gmail.com](mailto:kyleschattler@gmail.com)**  
 **267-496-8435**
 
 *Education*
 
-**Pennsylvania College of Technology**
-
-**B.S. in Web and Application Development, May 2013**
+**Pennsylvania College of Technology**  
+**B.S. in Web and Application Development, May 2013**  
 
 *Professional Experience*
 
-**UPMC: Associate Software Engineer**
-
-**2013 - Present**
-
+**UPMC: Associate Software Engineer**  
+**2013 - Present**  
 * Built single-page app in JavaScript using self developed framework that allowed radiologist to upload external DICOM images into UPMC’s system.
 
 * Developed web portal to manage images uploaded from external sites in .NET MVC 3
@@ -28,23 +22,17 @@
 
 *Projects*
 
-**Champion.js**
+**Champion.js**  
+**github.com/kschat/championjs**  
+* Wrote frontend Model-View-Presenter framework that provides dependency injection, custom events, and easy module creation/extension to help structure JavaScript heavy applications. Utilized Grunt, Jasmine, Sinon, and Chai to build the modules and automate testing.
 
-**github.com/kschat/championjs**
+**TF2Outpost Price Integration**  
+**github.com/kschat/tf2outpost-prices-chrome-extension**  
+* Wrote Chrome extension that hits a Node.js server for item prices and injects those prices into tf2outpost.com. Utilized Champion.js, jQuery, Node.js, Gulp.js, Jasmine, Chrome Extension API, Bootstrap 3, and Font Awesome 4.
 
-Wrote frontend Model-View-Presenter framework that provides dependency injection, custom events, and easy module creation/extension to help structure JavaScript heavy applications. Utilized Grunt, Jasmine, Sinon, and Chai to build the modules and automate testing.
-
-**TF2Outpost Price Integration**
-
-**github.com/kschat/tf2outpost-prices-chrome-extension**
-
-Wrote Chrome extension that hits a Node.js server for item prices and injects those prices into tf2outpost.com. Utilized Champion.js, jQuery, Node.js, Gulp.js, Jasmine, Chrome Extension API, Bootstrap 3, and Font Awesome 4.
-
-**Scheduler**
-
-**github.com/kschat/scheduler**
-
-Created a simple way to schedule classes using Node.js, Express, MongoDB, Mongoose, and Jade. Wrote tests using Mocha with Should.
+**Scheduler**  
+**github.com/kschat/scheduler**  
+* Created a simple way to schedule classes using Node.js, Express, MongoDB, Mongoose, and Jade. Wrote tests using Mocha with Should.
 
 *Technical Skills*
 
