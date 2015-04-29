@@ -1,5 +1,5 @@
 **Kyle Schattler**  
-**[https://github.com/kschat](https://github.com/kschat)**  
+**[https://kyleschattler.com](https://kyleschattler.com)**  
 **[kyleschattler@gmail.com](mailto:kyleschattler@gmail.com)**  
 **267-496-8435**
 
@@ -10,15 +10,17 @@
 
 *Professional Experience*
 
-**UPMC: Associate Software Engineer**  
-**2013 - Present**  
+**Branding Brand: Senior Frontend Developer**
+**October 2014 - Present**
+* Worked on various clients mobile websites using jQuery, Ember, Handlebars, Node, and Express
+* Wrote RESTful APIs that used the clients desktop sites as their datasource using Node and Express
+
+**UPMC: Intermediate Software Engineer**  
+**June 2013 - October 2014**  
 * Built single-page app in JavaScript using self developed framework that allowed radiologist to upload external DICOM images into UPMC’s system.
-
 * Developed web portal to manage images uploaded from external sites in .NET MVC 3
-
 * Developed RESTful API to integrate with DICOM uploading single-page app in .NET WebAPI
-
-* Wrote micro-services to process uploaded DICOM images in C#
+* Wrote micro-services to process uploaded DICOM images in C# 
 
 *Projects*
 
