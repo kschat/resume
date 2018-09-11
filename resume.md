@@ -1,7 +1,6 @@
-**Kyle Schattler**  
-**[https://kyleschattler.com](https://kyleschattler.com)**  
-**[kyleschattler@gmail.com](mailto:kyleschattler@gmail.com)**  
-**267-496-8435**
+**Kyle Schattler**
+**[https://kyleschattler.com](https://kyleschattler.com)**
+**kyleschattler[at]gmail[dot]com**
 
 *Education*
 
