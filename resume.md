@@ -1,5 +1,6 @@
 **Kyle Schattler**
 **[https://kyleschattler.com](https://kyleschattler.com)**
+
 **kyleschattler[at]gmail[dot]com**
 
 *Education*
